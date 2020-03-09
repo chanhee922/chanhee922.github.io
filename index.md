@@ -4,7 +4,7 @@
 
 ### R을 활용한 롯데공모전 데이터 분석
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/sample_page.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
